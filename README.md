@@ -1,7 +1,9 @@
 # Hi 👋, I'm Karim Osama
-### A passionate Flutter developer with a knack for creating beautiful and functional mobile applications. With a strong foundation in Dart and a keen eye for design, I strive to build seamless and engaging user experiences.
+### Software Development Engineer | Flutter Developer
 
-- 📫 How to reach me **kareemosama455@gmail.com**
+### About Me
+🚀 **Skills**: My expertise includes state management, architecture pattern, animations, custom widgets, and integrating RESTful APIs. I'm also proficient in using tools like Git, Firebase, and various third-party libraries.  
+💡 **Learning**: I'm always eager to learn and stay updated with the latest trends and technologies in the Flutter ecosystem.  
 
 ### Connect with me:
 <p align="left">
