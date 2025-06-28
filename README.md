@@ -40,9 +40,7 @@ Welcome to my GitHub profile! I'm passionate about building innovative and user-
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
   </a>
-  <a href="https://www.zegocloud.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/zegocloud/zegocloud-icon.svg" alt="ZEGOCLOUD" width="40" height="40" />
-  </a>
+  <a href="https://www.zegocloud.com/" target="_blank" rel="noreferrer">ZEGOCLOUD</a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
   </a>
