@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm passionate about building innovative and user-
 ---
 
 ## 🌟 About Me
-- 🚀 **Expertise**: I specialize in Flutter development, including state management, architecture patterns (e.g., BLoC, Provider), animations, custom widgets, and RESTful API integration.
-- 🛠 **Tools & Technologies**: Proficient in Git, Firebase, ZEGOCLOUD, and various third-party libraries to create seamless user experiences.
+- 🚀 **Expertise**: I specialize in Flutter development, with a strong focus on Dart for crafting efficient and maintainable code. My skills include state management (e.g., BLoC, Provider), architecture patterns, animations, custom widgets, and RESTful API integration.
+- 🛠 **Tools & Technologies**: Proficient in Dart, Git, Firebase, ZEGOCLOUD, and various third-party libraries to create seamless user experiences.
 - 💡 **Lifelong Learner**: Always exploring the latest trends in the Flutter ecosystem and mobile development to stay ahead of the curve.
 - 🎯 **Goal**: Building impactful applications that solve real-world problems with clean code and intuitive design.
 
@@ -69,7 +69,7 @@ Welcome to my GitHub profile! I'm passionate about building innovative and user-
 ## 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&langs_count=8&hide=python,sqlite&card_width=320" alt="Top Languages" />
 </p>
 
 ---
